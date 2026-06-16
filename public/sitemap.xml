@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.TUDOMINIO.com/index.html</loc>
+    <loc>https://ramos-transportes-y-mudanzas.vercel.app/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.TUDOMINIO.com/src/html/service.html</loc>
+    <loc>https://ramos-transportes-y-mudanzas.vercel.app/src/html/service.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.TUDOMINIO.com/src/html/about.html</loc>
+    <loc>https://ramos-transportes-y-mudanzas.vercel.app/src/html/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.TUDOMINIO.com/src/html/contact.html</loc>
+    <loc>https://ramos-transportes-y-mudanzas.vercel.app/src/html/contact.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.TUDOMINIO.com/sitemap.xml
+Sitemap: https://ramos-transportes-y-mudanzas.vercel.app/sitemap.xml
