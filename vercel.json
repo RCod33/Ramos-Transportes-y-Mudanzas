@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "ramos-transportes-y-mudanzas.vercel.app" }],
+      "destination": "https://ramosmudanzas.es/$1",
+      "permanent": true
+    }
+  ]
+}
